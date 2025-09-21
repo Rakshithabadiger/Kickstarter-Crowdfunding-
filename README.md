@@ -36,7 +36,7 @@ To design and analyze a secure, scalable, and user-friendly crowdfunding platfor
    Percentage of Successful projects by Goal Range ( decide the range as per your need )
 - Dashboard interaction EXCEL<a href="https://github.com/Rakshithabadiger/Kickstarter-Crowdfunding-/blob/main/EXCEL%20Dashboard.png"> view Dashboard </a>
 - Dashboard interaction Power BI<a href="https://github.com/Rakshithabadiger/Kickstarter-Crowdfunding-/blob/main/Power%20BI%20Dashboard.png"> View Dashboard </a>
-- Dashboard interaction EXCEL
+- Dashboard interaction EXCEL<a href="https://github.com/Rakshithabadiger/Kickstarter-Crowdfunding-/blob/main/Tableau%20dashboard.png"> View Dashboard </a>
 
 ## Process
 - Data Collection – Gathered real-world Kickstarter crowdfunding data (project details, goals, pledges, dates, status, and categories) in .xlsx format.
@@ -50,7 +50,7 @@ To design and analyze a secure, scalable, and user-friendly crowdfunding platfor
 - TABLEAU<img width="1137" height="501" alt="Tableau dashboard" src="https://github.com/user-attachments/assets/71d68119-b5f0-4dc3-ab75-329718e226e8" />
 
 ## SQL Queries
-<a href="https://github.com/Rakshithabadiger/Kickstarter-Crowdfunding-/blob/main/Grp%201-crowdfundingKickstarter%20finalll.sql"> view</a>
+<a href="https://github.com/Rakshithabadiger/Kickstarter-Crowdfunding-/blob/main/Grp%201-crowdfundingKickstarter%20finalll.sql"> view Dataset</a>
 
 ## Project insights
 - Early Engagement Wins – Campaigns with strong backer activity in the first 48 hours achieved higher success rates.
