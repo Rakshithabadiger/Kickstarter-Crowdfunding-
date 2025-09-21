@@ -34,7 +34,7 @@ To design and analyze a secure, scalable, and user-friendly crowdfunding platfor
    Percentage of Successful Projects  by Category
    Percentage of Successful Projects by Year , Month etc..
    Percentage of Successful projects by Goal Range ( decide the range as per your need )
-- Dashboard interaction EXCEL
+- Dashboard interaction EXCEL<a href="https://github.com/Rakshithabadiger/Kickstarter-Crowdfunding-/blob/main/EXCEL%20Dashboard.png"> view Dashboard </a>
 - Dashboard interaction Power BI<a href="https://github.com/Rakshithabadiger/Kickstarter-Crowdfunding-/blob/main/Power%20BI%20Dashboard.png"> View Dashboard </a>
 - Dashboard interaction EXCEL
 
