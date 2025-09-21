@@ -49,6 +49,9 @@ To design and analyze a secure, scalable, and user-friendly crowdfunding platfor
 - POWER BI<img width="1745" height="849" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/9902db1f-b026-4de3-9f45-44e608234d8a" />
 - TABLEAU<img width="1137" height="501" alt="Tableau dashboard" src="https://github.com/user-attachments/assets/71d68119-b5f0-4dc3-ab75-329718e226e8" />
 
+## SQL Queries
+<a href="https://github.com/Rakshithabadiger/Kickstarter-Crowdfunding-/blob/main/Grp%201-crowdfundingKickstarter%20finalll.sql"> view</a>
+
 ## Project insights
 - Early Engagement Wins – Campaigns with strong backer activity in the first 48 hours achieved higher success rates.
 - Media Quality Matters – Projects featuring high-quality visuals and clear goals attracted more funding.
